@@ -1,5 +1,20 @@
-👍👍👍😁😁😁Olá eu sou Fagner Joaquim, sou estudante de programação há 6 meses e estou fazendo o curso de engenharia de software
+<p align="center">
+  <img src="https://github.com/fagner121212/assets/blob/main/Fagner.PNG?raw=true">
+</p>
 
-Estou a procura da minha vaga de estagio estou ansioso para isso pois quero começar uma carreira profissional logo
-e para isso eu estudo e pratico muito e é por isso que resolvi cria esse repositorio aqui no Github
-para vocês me conhecerem melhor e o meu jeito de coda.
+# Software Engineering
+
+ Hi, my name is Fagner, I'm a front-end developer, I'm a Software Engineering student
+I am currently in the second period of my college.
+ I'm looking for an internship or junio vacancy, I know with my knowledge and practices
+I can help a lot
+ 
+ # Technologies I study
+ 
+ HTML
+ CSS
+ JavaScript
+ React-js
+ node-js
+ Typescript
+ 
